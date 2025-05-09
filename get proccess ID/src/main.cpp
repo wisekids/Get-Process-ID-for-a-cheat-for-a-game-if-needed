@@ -3,7 +3,7 @@
 
 int main()
 {
-	const char* procName = "Enter a procName";
+	const char* procName = "Enter a procName Here ";
 
 	DWORD procId = GetProcId(procName);
 
